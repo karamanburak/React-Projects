@@ -1,0 +1,13 @@
+
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 100px;
+    margin-top: 150px;
+}
+
+.car {
+    transition: transform 3s ease;
+}
