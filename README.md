@@ -8,7 +8,7 @@
 | Project Name  | Source Code                                                                        | 
 | ------------- | ---------------------------------------------------------------------------------- | 
 | Move the Car  | [Source Code](https://github.com/karamanburak/React-Projects/tree/main/move-the-car) | 
-| Get the Color | [Source Code](https://github.com/karamanburak/React-Projects/tree/main/move-the-car) | 
+| Get the Color | [Source Code](https://github.com/karamanburak/react-projects/tree/main/change-the-color) | 
 
 
 ##
