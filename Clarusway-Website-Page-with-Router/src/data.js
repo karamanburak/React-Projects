@@ -1,6 +1,6 @@
-import htmlImg from "../src/assets/img/logo_html.png";
-import cssImg from "../src/assets/img/logo_css.png";
-import graphicDesignImg from "../src/assets/img/logo_brush.png";
+import htmlImg from "./assets/img/logo_html.png";
+import cssImg from "./assets/img/logo_css.png";
+import graphicDesignImg from "./assets/img/logo_brush.png";
 
 const data = [
   {
