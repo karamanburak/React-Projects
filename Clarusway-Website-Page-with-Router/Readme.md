@@ -1,5 +1,4 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+
 
 # Coding Challenge-003 : Clarusway Web Page with React Router
 
@@ -16,7 +15,7 @@ Project aims to create a Clarusway Web Page with Router.
 ```
 003 - Clarusway Web Page with Router (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)
+|----readme.md        
 SOLUTION
 ├── public
 │     └── index.html
@@ -62,7 +61,7 @@ Build a Clarusway Web Page using ReactJS and react-router.
 
 - ReactJS
 
-### At the end of the project, students will be able to;
+### At the end of the project, you will be able to;
 
 - Improve coding skills within HTML & CSS & JS & ReactJS.
 
